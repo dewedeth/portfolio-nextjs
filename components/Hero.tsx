@@ -17,7 +17,7 @@ export default function Hero({}: Props) {
         <BackgroundCircles />
         <img
         className='relative rounded-full h-32 w-32 mx-auto object-cover'
-        src="https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/284033701_10225175548470016_2241811296021889150_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=UYlSzQ0W1cwAX-0_1jd&_nc_ht=scontent-mia3-2.xx&oh=00_AfC8eeTTOblAQhjC7ipaLFLf2XGpWaR7W0jwPP-ZjTMiBw&oe=63E3A984" 
+        src="https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/284033701_10225175548470016_2241811296021889150_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=rC7f_X2DAzkAX-RcWGE&_nc_ht=scontent-mia3-2.xx&oh=00_AfDmcNpi-HKXEDd41o9cjzvCiNry4xGUY7TqpltlpOsDSg&oe=63EB9284" 
         alt="Profile Picture"/>
         <div className='z-20'>
         <h2 className='text-sm uppercase text-gray-500 tracking-[15px]'>Software Developer</h2>
